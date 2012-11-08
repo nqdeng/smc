@@ -1,0 +1,18 @@
+{
+	"name": "smc",
+	"description": "SeaJS Module Compiler",
+	"keywords": [
+		"seajs",
+		"smc"
+	],
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/nqdeng/smc.git"
+	},
+	"author": "Nanqiao Deng <nqdeng@gmail.com>",
+	"version": "0.1.0",
+	"engines": {
+		"node": "0.8.x"
+	},
+	"main": "lib/main.js"
+}
