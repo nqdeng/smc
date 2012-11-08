@@ -1,0 +1,4 @@
+smc
+===
+
+SeaJS Module Compiler
