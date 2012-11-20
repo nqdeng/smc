@@ -10,7 +10,7 @@
 		"url": "git://github.com/nqdeng/smc.git"
 	},
 	"author": "Nanqiao Deng <nqdeng@gmail.com>",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"engines": {
 		"node": "0.8.x"
 	},
