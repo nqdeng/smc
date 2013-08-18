@@ -1,4 +1,4 @@
 smc
 ===
 
-SeaJS Module Compiler
+SeaJS Module Compiler!
